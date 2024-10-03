@@ -7,7 +7,14 @@ Pix2Pix is a type of Conditional Generative Adversarial Network (CGAN) introduce
 
 - **Conditional GAN**: Unlike standard GANs, the Pix2Pix model is conditional, meaning the generator is guided by an input image, and the discriminator evaluates the output based on both the input and generated image.
 - **Paired Data**: The model requires paired training data (e.g., an image and its corresponding translated version) for tasks such as image colorization, edge-to-photo translation, and more.
-## Sample Output
+
+## Applications:
+- **Photo enhancement: Transforming low-quality images into high-quality ones.
+- **Semantic segmentation: Mapping a segmentation mask (labels) to an image.
+- **Image colorization: Turning grayscale images into color images.
+- **Edge-to-image translation: Converting edge maps to full-color images.
+- 
+## Sample Output:
 
 This is an example image of the Pix2Pix model output from the original paper:
 ![Pix2Pix Output](./Pix2Pix_Outputs.jpg)
