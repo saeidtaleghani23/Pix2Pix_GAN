@@ -4,5 +4,5 @@ Pix2Pix is a Conditional Generative Adversarial Network (CGAN) introduced by Iso
 ## Sample Output
 
 This is an example image of the Pix2Pix model output from the original paper:
-![Pix2Pix Output](Pix2Pix samples.jpg)
+![Pix2Pix Output](Pix2Pix_Outputs.jpg)
 
