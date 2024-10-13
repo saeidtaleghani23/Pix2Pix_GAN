@@ -9,10 +9,10 @@ Pix2Pix is a type of Conditional Generative Adversarial Network (CGAN) introduce
 - **Paired Data**: The model requires paired training data (e.g., an image and its corresponding translated version) for tasks such as image colorization, edge-to-photo translation, and more.
 
 ## Applications:
-- **Photo enhancement: Transforming low-quality images into high-quality ones.
-- **Semantic segmentation: Mapping a segmentation mask (labels) to an image.
-- **Image colorization: Turning grayscale images into color images.
-- **Edge-to-image translation: Converting edge maps to full-color images.
+- Photo enhancement: Transforming low-quality images into high-quality ones.
+- Semantic segmentation: Mapping a segmentation mask (labels) to an image.
+- Image colorization: Turning grayscale images into color images.
+- Edge-to-image translation: Converting edge maps to full-color images.
   
 ## Sample Output:
 
