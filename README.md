@@ -13,7 +13,7 @@ Pix2Pix is a type of Conditional Generative Adversarial Network (CGAN) introduce
 - **Semantic segmentation: Mapping a segmentation mask (labels) to an image.
 - **Image colorization: Turning grayscale images into color images.
 - **Edge-to-image translation: Converting edge maps to full-color images.
-- 
+  
 ## Sample Output:
 
 This is an example image of the Pix2Pix model output from the original paper:
